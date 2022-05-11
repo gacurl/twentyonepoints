@@ -5,7 +5,7 @@
   "description": "Description for TwentyOnePoints",
   "license": "UNLICENSED",
   "scripts": {
-    "app:start": "./gradlew",
+    "appx:start": "./gradlew",
     "backend:build-cache": "npm run backend:info && npm run backend:nohttp:test && npm run ci:e2e:package",
     "backend:doc:test": "./gradlew javadoc -x webapp -x webapp_test",
     "backend:info": "./gradlew -v",
