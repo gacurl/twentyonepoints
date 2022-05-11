@@ -1,0 +1,18 @@
+{
+  "twentyOnePointsApp": {
+    "preferences": {
+      "home": {
+        "title": "Preferences",
+        "refreshListLabel": "Refresh list",
+        "notFound": "No Preferences found"
+      },
+      "detail": {
+        "title": "Preferences"
+      },
+      "id": "ID",
+      "weeklyGoal": "Weekly Goal",
+      "weightUnits": "Weight Units",
+      "user": "User"
+    }
+  }
+}
